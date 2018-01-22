@@ -13,4 +13,4 @@ https://www.youtube.com/playlist?list=PLEH2kL-crMGEVS0_xh5F3zeOW_gA9uQ2T
 
 https://www.youtube.com/watch?v=KyUTuwz_b7Q
 
-
+Ovaj link ne znam sta je:  http://technicalworldofme.blogspot.rs/2014/06/cs3401-practice-quiz-2.html
