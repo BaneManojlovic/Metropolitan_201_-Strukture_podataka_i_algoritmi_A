@@ -1,6 +1,10 @@
 # Metropolitan_201_-Strukture_podataka_i_algoritmi_A
 Ovo je materijal za predmet na Metropolitanu, pod sifrom KI201 - Strukture podataka i algoritmi.
 
+************************************************************************************************
+Materijali sa resenim zadacima sa GitHub profila od nakog lika:
+
+https://github.com/jsquared21/Intro-to-Java-Programming
 
 ************************************************************************************************
 Linkovi koje moras da pogledas da bi skapirao prve 4 lekcije:
