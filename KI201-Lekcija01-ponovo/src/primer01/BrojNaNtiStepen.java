@@ -16,7 +16,7 @@ public class BrojNaNtiStepen {
         if(n == 0){
             return 1;
         }else{
-            return x*stepenovanje(x, n-1);
+            return Math.pow(x, n);
         }
     }
     
